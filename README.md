@@ -42,7 +42,7 @@ The Project was created with:
 
 ## Screenshots
 
-![Alt text]()
+![Alt text](https://github.com/Case1440/random-password-generator/blob/main/Screenshot%202023-11-17%20234843.png)
 
 ## Summary
 
